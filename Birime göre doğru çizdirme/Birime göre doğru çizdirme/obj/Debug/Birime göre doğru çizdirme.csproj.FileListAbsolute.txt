@@ -1,0 +1,9 @@
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\bin\Debug\Birime göre doğru çizdirme.exe.config
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\bin\Debug\Birime göre doğru çizdirme.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\bin\Debug\Birime göre doğru çizdirme.pdb
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\obj\Debug\Birime göre doğru çizdirme.csprojResolveAssemblyReference.cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\obj\Debug\Birime_göre_doğru_çizdirme.Form1.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\obj\Debug\Birime_göre_doğru_çizdirme.Properties.Resources.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\obj\Debug\Birime göre doğru çizdirme.csproj.GenerateResource.Cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\obj\Debug\Birime göre doğru çizdirme.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Birime göre doğru çizdirme\Birime göre doğru çizdirme\obj\Debug\Birime göre doğru çizdirme.pdb

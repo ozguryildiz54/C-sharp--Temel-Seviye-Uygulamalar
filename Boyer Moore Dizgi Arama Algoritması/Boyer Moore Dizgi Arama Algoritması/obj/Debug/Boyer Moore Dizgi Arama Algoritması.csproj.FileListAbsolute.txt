@@ -1,0 +1,1 @@
+c:\users\özgür\documents\visual studio 2015\Projects\Boyer Moore Dizgi Arama Algoritması\Boyer Moore Dizgi Arama Algoritması\bin\Debug\Boyer Moore Dizgi Arama Algoritması.exe.config

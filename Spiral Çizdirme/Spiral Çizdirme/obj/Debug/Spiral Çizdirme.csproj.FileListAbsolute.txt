@@ -1,0 +1,9 @@
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\bin\Debug\Spiral Çizdirme.exe.config
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\bin\Debug\Spiral Çizdirme.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\bin\Debug\Spiral Çizdirme.pdb
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\obj\Debug\Spiral Çizdirme.csprojResolveAssemblyReference.cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\obj\Debug\Spiral_Çizdirme.Form1.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\obj\Debug\Spiral_Çizdirme.Properties.Resources.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\obj\Debug\Spiral Çizdirme.csproj.GenerateResource.Cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\obj\Debug\Spiral Çizdirme.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Spiral Çizdirme\Spiral Çizdirme\obj\Debug\Spiral Çizdirme.pdb

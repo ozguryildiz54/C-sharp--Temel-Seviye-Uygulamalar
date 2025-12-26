@@ -1,0 +1,6 @@
+c:\users\özgür\documents\visual studio 2015\Projects\Algoritma Analizi\Algoritma Analizi\bin\Debug\Algoritma Analizi.exe.config
+c:\users\özgür\documents\visual studio 2015\Projects\Algoritma Analizi\Algoritma Analizi\bin\Debug\Algoritma Analizi.exe
+c:\users\özgür\documents\visual studio 2015\Projects\Algoritma Analizi\Algoritma Analizi\bin\Debug\Algoritma Analizi.pdb
+c:\users\özgür\documents\visual studio 2015\Projects\Algoritma Analizi\Algoritma Analizi\obj\Debug\Algoritma Analizi.csprojResolveAssemblyReference.cache
+c:\users\özgür\documents\visual studio 2015\Projects\Algoritma Analizi\Algoritma Analizi\obj\Debug\Algoritma Analizi.exe
+c:\users\özgür\documents\visual studio 2015\Projects\Algoritma Analizi\Algoritma Analizi\obj\Debug\Algoritma Analizi.pdb

@@ -1,0 +1,8 @@
+bin\Debug\hesapmakinesi.exe
+bin\Debug\hesapmakinesi.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\hesapmakinesi.Form1.resources
+obj\Debug\hesapmakinesi.Properties.Resources.resources
+obj\Debug\hesapmakinesi.csproj.GenerateResource.Cache
+obj\Debug\hesapmakinesi.exe
+obj\Debug\hesapmakinesi.pdb

@@ -1,0 +1,18 @@
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\bin\Debug\Top ile düşeyde nesne vurma oyunu.exe.config
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\bin\Debug\Top ile düşeyde nesne vurma oyunu.exe
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\bin\Debug\Top ile düşeyde nesne vurma oyunu.pdb
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.csprojResolveAssemblyReference.cache
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top_ile_düşeyde_nesne_vurma_oyunu.Form1.resources
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top_ile_düşeyde_nesne_vurma_oyunu.Properties.Resources.resources
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.csproj.GenerateResource.Cache
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.exe
+c:\users\özgür yildiz\documents\visual studio 2015\Projects\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.pdb
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\bin\Debug\Top ile düşeyde nesne vurma oyunu.exe.config
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.exe
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.pdb
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\bin\Debug\Top ile düşeyde nesne vurma oyunu.exe
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\bin\Debug\Top ile düşeyde nesne vurma oyunu.pdb
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top_ile_düşeyde_nesne_vurma_oyunu.Form1.resources
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top_ile_düşeyde_nesne_vurma_oyunu.Properties.Resources.resources
+C:\Users\Özgür YILDIZ\Desktop\Top ile düşeyde nesne vurma oyunu\Top ile düşeyde nesne vurma oyunu\obj\Debug\Top ile düşeyde nesne vurma oyunu.csproj.GenerateResource.Cache

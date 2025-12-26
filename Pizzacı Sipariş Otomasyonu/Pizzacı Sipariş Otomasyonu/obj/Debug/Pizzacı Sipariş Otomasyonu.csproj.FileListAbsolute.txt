@@ -1,0 +1,14 @@
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\bin\Debug\Pizzacı Sipariş Otomasyonu.exe.config
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\bin\Debug\Pizzacı Sipariş Otomasyonu.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\bin\Debug\Pizzacı Sipariş Otomasyonu.pdb
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\bin\Debug\tr\Pizzacı Sipariş Otomasyonu.resources.dll
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı Sipariş Otomasyonu.csprojResolveAssemblyReference.cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı_Sipariş_Otomasyonu.Form1.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı_Sipariş_Otomasyonu.Properties.Resources.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı_Sipariş_Otomasyonu.Form1.tr.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı Sipariş Otomasyonu.csproj.GenerateResource.Cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\tr\Pizzacı Sipariş Otomasyonu.resources.dll
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı Sipariş Otomasyonu.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı Sipariş Otomasyonu.pdb
+E:\Projeler\Programlama Dilleri\C# Projects\Otomasyon Uygulamaları\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı Sipariş Otomasyonu.exe
+E:\Projeler\Programlama Dilleri\C# Projects\Otomasyon Uygulamaları\Pizzacı Sipariş Otomasyonu\Pizzacı Sipariş Otomasyonu\obj\Debug\Pizzacı Sipariş Otomasyonu.pdb

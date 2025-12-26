@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\bin\Debug\2013123052_ÖzgürYILDIZ.exe.config
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\bin\Debug\2013123052_ÖzgürYILDIZ.exe
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\bin\Debug\2013123052_ÖzgürYILDIZ.pdb
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\obj\Debug\2013123052_ÖzgürYILDIZ.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\obj\Debug\_2013123052_ÖzgürYILDIZ.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\obj\Debug\_2013123052_ÖzgürYILDIZ.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\obj\Debug\2013123052_ÖzgürYILDIZ.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\obj\Debug\2013123052_ÖzgürYILDIZ.exe
+c:\users\user\documents\visual studio 2012\Projects\2013123052_ÖzgürYILDIZ\2013123052_ÖzgürYILDIZ\obj\Debug\2013123052_ÖzgürYILDIZ.pdb

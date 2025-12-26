@@ -1,0 +1,9 @@
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\bin\Debug\Adımızın İlk Harfini Yazdırma.exe.config
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\obj\Debug\Adımızın İlk Harfini Yazdırma.csprojResolveAssemblyReference.cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\obj\Debug\Adımızın_İlk_Harfini_Yazdırma.Form1.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\obj\Debug\Adımızın_İlk_Harfini_Yazdırma.Properties.Resources.resources
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\obj\Debug\Adımızın İlk Harfini Yazdırma.csproj.GenerateResource.Cache
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\bin\Debug\Adımızın İlk Harfini Yazdırma.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\bin\Debug\Adımızın İlk Harfini Yazdırma.pdb
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\obj\Debug\Adımızın İlk Harfini Yazdırma.exe
+D:\MY PROJECTS\PROGRAMMING LANGUAGES\C# Projects\FORM APPLİCATİONS\Adımızın İlk Harfini Yazdırma\Adımızın İlk Harfini Yazdırma\obj\Debug\Adımızın İlk Harfini Yazdırma.pdb
